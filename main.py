@@ -20,9 +20,9 @@ from typing import Dict
 print('''
 \033[1;92m Recoded By THBD
 BiRi_B@B@
-Telegram:https://t.me/termux_hacker_bd
-One line Command:\nsudo python Wifi_Hack/birihack.py -i wlan0 -K\n
-For Help Type:\npython Wifi_Hack/birihack.py --help\033[0m
+Telegram:https://t.me/Sumon523022
+One line Command:\nsudo python Wifi_Hack/main.py -i wlan0 -K\n
+For Help Type:\npython Wifi_Hack/main.py --help\033[0m
 ''')
 class NetworkAddress:
     def __init__(self, mac):
